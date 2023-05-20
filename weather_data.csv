@@ -1,0 +1,46 @@
+City,Max Temperature,Min Temperature,Humidity,Conditions
+Vilnius,67.9,51.7,48.7,Partially cloudy
+Vilnius,68.3,46.1,54.3,Partially cloudy
+Vilnius,68.4,51.0,55.4,Partially cloudy
+Vilnius,69.9,50.1,59.2,Partially cloudy
+Vilnius,74.0,51.9,49.8,Partially cloudy
+Vilnius,70.4,54.9,70.3,Partially cloudy
+Vilnius,64.3,47.0,75.1,Partially cloudy
+Vilnius,67.2,51.2,72.2,Partially cloudy
+Vilnius,64.8,50.4,83.0,Partially cloudy
+Vilnius,71.3,45.4,68.6,Clear
+Vilnius,72.4,51.5,70.7,Partially cloudy
+Vilnius,76.0,55.7,67.9,Partially cloudy
+Vilnius,70.8,51.5,68.9,Clear
+Vilnius,67.0,48.3,71.1,Partially cloudy
+Vilnius,65.0,45.9,56.8,Partially cloudy
+Kaunas,71.5,46.3,50.8,Partially cloudy
+Kaunas,71.3,49.0,51.8,Partially cloudy
+Kaunas,71.0,52.4,53.3,Partially cloudy
+Kaunas,72.9,52.4,56.1,Partially cloudy
+Kaunas,76.0,53.1,52.7,Partially cloudy
+Kaunas,71.1,53.1,67.8,Partially cloudy
+Kaunas,63.9,47.0,75.1,Partially cloudy
+Kaunas,67.6,46.5,75.9,Partially cloudy
+Kaunas,63.4,49.3,84.1,Partially cloudy
+Kaunas,67.9,44.7,73.2,Partially cloudy
+Kaunas,70.1,49.7,73.6,Partially cloudy
+Kaunas,71.0,51.9,71.7,Partially cloudy
+Kaunas,67.2,47.4,72.8,Partially cloudy
+Kaunas,67.0,45.6,74.8,Partially cloudy
+Kaunas,65.2,44.5,58.2,Partially cloudy
+Klaipeda,73.3,48.1,51.2,"Rain, Partially cloudy"
+Klaipeda,71.5,54.1,52.8,Clear
+Klaipeda,64.8,56.4,63.5,Partially cloudy
+Klaipeda,65.4,56.2,63.3,Partially cloudy
+Klaipeda,63.2,52.2,76.0,Clear
+Klaipeda,60.7,49.8,81.7,Partially cloudy
+Klaipeda,57.8,47.9,82.1,Partially cloudy
+Klaipeda,59.3,44.0,77.7,Partially cloudy
+Klaipeda,58.7,45.6,85.6,Partially cloudy
+Klaipeda,56.7,43.2,86.5,Partially cloudy
+Klaipeda,62.7,46.7,77.8,Partially cloudy
+Klaipeda,64.8,49.4,72.7,Partially cloudy
+Klaipeda,65.0,47.7,69.0,Partially cloudy
+Klaipeda,64.3,46.3,69.2,Partially cloudy
+Klaipeda,64.3,44.0,54.9,Clear
